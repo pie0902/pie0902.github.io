@@ -20,14 +20,10 @@
 
 title: thunder's blog
 email: ji4971@naver.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+description: >- 안녕하세요! 백엔드 개발을 공부하는 윤종일의 블로그 입니다!
+baseurl: ""
+url: "https://pie0902.github.io"
+github_username:  pie0902
 
 # Build settings
 theme: minima
